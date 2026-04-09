@@ -1,0 +1,5 @@
+{
+  "name": "LendTrack Pro",
+  "description": "A full-stack loan management system with role-based dashboards for lenders, borrowers, and analysts. Features real-time tracking, interest calculation, and financial analytics.",
+  "requestFramePermissions": []
+}
